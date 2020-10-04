@@ -1,7 +1,8 @@
 /* write your override styles here */
 #wall .tag-1{
   display: none;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50px;
+}
+
+div #wall. tag-2{
+  display: none
 }
